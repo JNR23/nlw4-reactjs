@@ -1,0 +1,47 @@
+[
+    {
+        "type": "body",
+        "description": "Estique um de seus braços",
+        "amount": 80
+    },
+    {
+        "type": "body",
+        "description": "Estique um de seus braços contra o peito",
+        "amount": 60
+    },
+    {
+        "type": "body",
+        "description": "Puxe seu pescoço com a ajuda da mão para a direita",
+        "amount": 70
+    },
+    {
+        "type": "body",
+        "description": "Coloque as duas mãos na parte de trás cabeça",
+        "amount": 20
+    },
+    {
+        "type": "body",
+        "description": "Cruze as pernas e desça com as mãos esticadas",
+        "amount": 100
+    },
+    {
+        "type": "body",
+        "description": "Sentado, abra as pernas e tente encostar as palmas das mãos no chão",
+        "amount": 40
+    },
+    {
+        "type": "eye",
+        "description": "Em um ambiente aberto, olhe o mais longe que puder",
+        "amount": 140
+    },
+    {
+        "type": "eye",
+        "description": "Sentado, feche os olhos durante 2 minutos",
+        "amount": 140
+    },
+    {
+        "type": "eye",
+        "description": "Usando os polegares, massageie os olhos",
+        "amount": 70
+    }
+]
