@@ -1,34 +1,67 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<div align="center">  
+   <a href="https://rocketseat.com.br/">
+      <img src="https://raw.githubusercontent.com/Rocketseat/awesome/master/assets/logo_rocketseat.png" alt="Move It" width="300px"/> 
+   </a>
+</div>
 
-## Getting Started
+<br><br>
 
-First, run the development server:
+<div align="center">  
+   <img src="https://user-images.githubusercontent.com/60162736/108933227-8ad6c600-7629-11eb-8345-cf0c203aee46.png" alt="Tela do Move It" width="700px"/> 
+</div>
+
+<br><br><br><br>
+
+## 📖 Sobre:
+
+"Move it" é um projeto da Rocketseat, do evento Next Level Week 4, para estudos intensivos do Front End.
+Foi desenvolvido um app para auxiliar pessoas a se movimentarem com o método Pomodoro.
+
+### Deploy do projeto:
+
+<a href="https://moveit-livid-omega.vercel.app/" target="_blank"><img alt="Vercel" src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+
+### Layout do projeto:
+
+<a href="https://www.figma.com/file/UnPgRXKJulEvLAq3qkfRQX/Move.it-1.0" target="_blank"><img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/></a>
+
+<br>
+
+---
+
+<br>
+
+## 🚀 Tecnologias Utilizadas:
+
+* [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+* [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+* [Typescript](https://www.typescriptlang.org/)
+* [ReactJS](https://reactjs.org/)
+* [NextJS](https://nextjs.org/)
+* [Yarn](https://yarnpkg.com/)
+
+<br>
+
+--- 
+
+<br>
+
+## ⌨ Executando o projeto:
 
 ```bash
-npm run dev
-# or
-yarn dev
+# Clonar o repositório:
+git clone https://github.com/JNR23/projeto-nlw4-nextjs.git
+
+# Entrar no diretório:
+cd projeto-nlw4-nextjs
+
+# Baixar as dependências:
+yarn install ou npm install
+
+# Executar o servidor:
+yarn dev ou npm run dev
+
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Abra o seu navegador e acesse `http://localhost:3000/`.
